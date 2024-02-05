@@ -1,0 +1,163 @@
+.section-one {
+width: 100%;
+height: 450px;
+background-color: #d68438;
+}
+.section-two {
+width: 100%;
+height: 450px;
+background-color: #f1b24b;
+	justify-content: center;
+align-items: center;
+}
+.section-three {
+display: flex;
+flex-direction: column;
+width: 100%;
+height: 450px;
+background-color: #36846b;
+	justify-content: center;
+	align-items: center;
+}
+.section-four {
+	display: flex;
+width: 100%;
+height: 350px;
+background-color: #4bb39a;
+	justify-content: center;
+	align-items: center;
+}
+.nav-bar {
+display: flex;
+color: white;
+font-size: 18px;
+}
+.web-img {
+display: flex;
+justify-content: center;
+align-items: center;
+margin-left: 5%;
+	
+}
+.web {
+display: flex;
+flex-direction: column;
+color: white;
+backround-color: #d68438;
+justify-content: center;
+align-items: center;
+}
+h1 {
+justify-content: center;}
+.left {
+margin-right: auto;
+}
+.right {
+margin-left: auto;
+}
+.web-button {
+color: white;
+background-color: #36846b;
+height:30px;
+width: 90px;
+border-radius: 5px;
+}
+a {
+  text-decoration: none;
+color: white;
+}
+.box {
+background-color: white;
+height: 130px;
+	width: 130px;
+border: 2px solid #4bb39a;
+border-radius: 15px;
+display: flex;
+
+}
+.width {
+	display: flex;
+}
+.left {
+	margin-right: auto;
+}
+.right {
+	margin-left: auto;
+}
+.wall {
+	margin-right: 40px;
+}
+.rightp {
+	display: flex;
+    margin-left: auto;
+    justify-content: space-around;
+	align-items: center;
+	font-size: 18px;
+}
+img.mainp {
+	border: 1px solid white;
+	border-radius: 15px;
+	margin: 0px 25px;
+}
+.container {
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.squares {
+	margin: 90px 60px;
+}
+h2 {
+margin: auto;
+text-align: center;
+	padding-top: 40px;
+	color: white;
+	font-size: 37px;
+}
+p {text-align:center;}
+.threesec {
+	height: 220px;
+	width: 600px;
+	font-size: 24px;
+}
+.author {
+	font-size: 24px;
+	justify-content: flex-end;
+margin-left: 400px;}
+.c2a {
+	border: 3px solid white; 
+	height: 100px;
+	width: 600px;
+	border-radius: 10px;
+}
+.footer{
+	padding-top: 25px;
+	background-color: #d68438;
+	height: 40px;
+	width: 100%;
+	text-align: center;
+	align-items: center;
+	color: white;
+	font-size: 14px;
+}
+h3 {margin-top:15px;
+	padding-left: 5%;
+	color: white;
+}
+span {
+	padding-left: 5%;
+	color: white;
+}
+.web-button2 {
+	color: #d68438;
+background-color: white;
+border-radius: 5px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: -35px ;
+	margin-left: 480px; 
+	width: 100px;
+	height: 25px;
+	
+}
